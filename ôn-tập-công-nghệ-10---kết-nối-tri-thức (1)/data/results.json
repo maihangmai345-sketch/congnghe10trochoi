@@ -1,0 +1,25 @@
+[
+  {
+    "sessionId": "TEST-10C05-01-ABC",
+    "studentId": 1,
+    "studentName": "Lê Hồng Hải Anh",
+    "className": "10C05",
+    "lessonId": "bai-3",
+    "lessonTitle": "Bài 3: 10 Công nghệ phổ biến",
+    "gameMode": "matching",
+    "gameModeTitle": "Ghép đôi hình ảnh",
+    "setIndex": 1,
+    "score": 8,
+    "totalQuestions": 5,
+    "correctCount": 4,
+    "wrongCount": 1,
+    "wrongQuestionIds": [
+      "p1"
+    ],
+    "status": "DA_ON_TAP",
+    "timestamp": "06:12:50 19/10/2026",
+    "reviewedScore": 10,
+    "reviewedCorrectCount": 5,
+    "reviewedTimestamp": "06:12:54 19/10/2026"
+  }
+]

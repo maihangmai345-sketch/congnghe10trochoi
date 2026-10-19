@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Tập Công Nghệ 10 - Kết Nối Tri Thức",
+  "description": "Ứng dụng ôn tập tương tác Công nghệ 10: Bài 3 (10 công nghệ phổ biến), Bài 4 (7 công nghệ mới), Bài 6 (4 cuộc cách mạng công nghiệp) với trò chơi hấp dẫn và kết nối Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
